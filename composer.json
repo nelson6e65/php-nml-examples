@@ -1,0 +1,15 @@
+{
+    "name": "nelson6e65/nml-examples",
+    "description": "Examples for PHP: Nelson Martell Library",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nelson Martell",
+            "email": "nelson6e65@gmail.com"
+        }
+    ],
+    "require": {
+        "nelson6e65/php_nml": "^0.6.0"
+    }
+}
